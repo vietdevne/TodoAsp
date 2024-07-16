@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MvcStudent.Data;
 
@@ -11,9 +12,11 @@ using MvcStudent.Data;
 namespace aspTodo.Migrations
 {
     [DbContext(typeof(MvcStudentContext))]
-    partial class MvcStudentContextModelSnapshot : ModelSnapshot
+    [Migration("20240716063747_CreateTeacher")]
+    partial class CreateTeacher
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

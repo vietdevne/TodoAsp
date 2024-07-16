@@ -62,6 +62,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/nguyen.quoc.vietb/research/aspTodo/Views/Teachers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nguyen.quoc.vietb/research/aspTodo/Views/Teachers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nguyen.quoc.vietb/research/aspTodo/Views/Teachers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nguyen.quoc.vietb/research/aspTodo/Views/Teachers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/nguyen.quoc.vietb/research/aspTodo/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/nguyen.quoc.vietb/research/aspTodo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

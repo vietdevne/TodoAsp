@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f5ad7269ce833000fc7c9191f18b475fa5086f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
